@@ -1,4 +1,6 @@
 # download-pdf-from-html
+npm install jspdf html2canvas
+
 
 ```jsx
 
